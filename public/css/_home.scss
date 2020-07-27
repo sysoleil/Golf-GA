@@ -1,0 +1,24 @@
+.logo {
+  width: 25%;
+}
+
+.items {
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+li {
+  align-items: center;
+  list-style-type: none;
+  display: inline;
+}
+
+Header {
+  margin-top: 150px Auto;
+  width: 100%;
+}
+bg_header {
+  background-image: url("img/terrasse_resto_golf.jpg");
+  background-size: cover;
+}
