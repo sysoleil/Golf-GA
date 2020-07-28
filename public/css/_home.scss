@@ -1,11 +1,15 @@
 .logo {
-  width: 25%;
+  width: 100%;
 }
 
 .items {
   margin: 0 auto;
   display: flex;
   justify-content: space-around;
+}
+
+.border{
+  border : 3px solid mediumspringgreen;
 }
 
 li {
@@ -15,10 +19,11 @@ li {
 }
 
 Header {
-  margin-top: 150px Auto;
+  margin-top: 10px Auto;
   width: 100%;
 }
-bg_header {
+.bg_header {
+  width: 100%;
   background-image: url("img/terrasse_resto_golf.jpg");
   background-size: cover;
 }
